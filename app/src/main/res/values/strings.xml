@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+『Androidアプリ開発の教科書』
+第12章
+メディアサンプル
+
+@author Shinzo SAITO
+
+res/values/string.xmlファイル
+-->
+<resources>
+	<string name="app_name">ワイパー指示出アプリ</string>
+	<string name="bt_play_play">繰り返し動かす</string>
+	<string name="bt_play_play2">一回だけ動かす</string>
+    <string name="tv_interval">ワイプ間隔を入力してください。</string>
+    <string name="bt_click">適用</string>
+
+</resources>
